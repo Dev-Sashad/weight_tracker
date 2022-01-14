@@ -49,7 +49,7 @@ class _SignUpViewState extends State<SignUpView> {
                               alignment: Alignment.center,
                             ),
                           ),
-                          Text('HEALTHCARE VQMA',
+                          Text('WEIGHT TRACKER',
                               style: TextStyle(
                                   color: Colors.white,
                                   fontSize: 20,
